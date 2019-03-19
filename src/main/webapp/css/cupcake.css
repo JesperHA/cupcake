@@ -1,0 +1,34 @@
+/* Jespers Cupcake stylesheet */
+
+.container {
+    width: 1024px;
+    margin-top: 10px;
+}
+
+#cupcakeselectionbox {
+    margin-top:30px;
+}
+
+
+.selectboxmedium {
+    width:200px;
+}
+
+.navbar {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.dropdown_box {
+    margin-bottom: 10px;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+footer {
+    text-align: center;
+}
